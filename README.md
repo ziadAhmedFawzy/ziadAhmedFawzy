@@ -28,7 +28,7 @@
 
 ### My GitHub Status :
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ziadahmedfawzy&show_icons=true&locale=en&layout=compact" alt="ziadahmedfawzy" /></p>
+<p><img align="cenrer" src="https://github-readme-stats.vercel.app/api/top-langs?username=ziadahmedfawzy&show_icons=true&locale=en&layout=compact" alt="ziadahmedfawzy" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ziadahmedfawzy&show_icons=true&locale=en" alt="ziadahmedfawzy" /></p>
 
